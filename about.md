@@ -11,7 +11,7 @@ I'm not good at writing about myself so heres a few things about me.
 + Gender:			Male
 + Political views: 	Anarchism
 + Religion:			I'm just a chapter of the universe observing itself from one of it's own derived perspectives.
-+ Code4food: 		Depends on the job, contact me.
++ Nerd4Hire:			Possible, Contact me... :)
 
 Contact info:  
 My contact information should be at the bottom of the page.

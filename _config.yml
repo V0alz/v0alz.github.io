@@ -10,8 +10,7 @@ title: V0alz space
 tagline: My brain poops here.
 email: v0alzgames@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Freshly baked home made games.
-  Tutorials and brain poop.
+  Freshly baked nardy shit!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://localhost:4000/" # the base hostname & protocol for your site
 twitter_username: V0alz
